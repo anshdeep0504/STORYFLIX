@@ -1,6 +1,6 @@
 # StoryFlix
 **Version**: 1.0.0  
-**Author**: [Your Name]
+**Author**: Anshdeep Singh
 
 ## Project Overview
 StoryFlix is an AI-powered storytelling application that generates immersive and customizable story scenes based on user-selected genres, settings, and moods. It combines modern web technologies with natural language processing (NLP) to deliver dynamic and captivating narratives. Leveraging OpenAI's powerful language models, StoryFlix offers real-time, unique scene generation, making each storytelling experience fresh and engaging.
