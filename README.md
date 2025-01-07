@@ -30,5 +30,5 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anshdeep0504/STORYFLIX
    cd storyflix
